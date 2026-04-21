@@ -4,6 +4,12 @@ Expo Architect is a PWA-first, Expo SDK 55 demo that turns natural language requ
 
 It is designed as a high-signal DevRel project around Expo's AI-doc readiness (`llms-full.txt`) and modern Expo Router workflows.
 
+### Screenshots
+
+<img width="1766" height="1222" alt="expo-architect-1" src="https://github.com/user-attachments/assets/e83cbe93-047b-4879-b322-f71c85e0336f" />
+<img width="1766" height="1222" alt="expo-architect-2" src="https://github.com/user-attachments/assets/4f0d19db-a22a-4904-ae80-767fbd012659" />
+<img width="1766" height="1222" alt="expo-architect-3" src="https://github.com/user-attachments/assets/8776b389-f4f0-4c4c-9e9b-c0b3eaf29b1c" />
+
 ## Demo Flow
 
 1. Open the Architect tab.
